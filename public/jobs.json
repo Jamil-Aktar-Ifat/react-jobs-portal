@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "logo": "https://cdn.logojoy.com/wp-content/uploads/20230801145608/Current-Google-logo-2015-2023-600x203.png",
+    "logo": "https://cdn.vox-cdn.com/thumbor/2ECtQus43_-tjqtlxy0WE8peSEQ=/0x0:2012x1341/1400x1050/filters:focal(1006x670:1007x671)/cdn.vox-cdn.com/uploads/chorus_asset/file/15483559/google2.0.0.1441125613.jpg",
     "job_title": "Technical Database Engineer",
     "company_name": "Google LLC",
     "remote_or_onsite": "Remote",
@@ -23,7 +23,7 @@
     "logo": "https://cdn.logojoy.com/wp-content/uploads/20231031154601/2014-netflix-logo-600x319.png",
     "job_title": "Senior Product Designer",
     "company_name": "Netflix",
-    "remote_or_onsite": "Onsite",
+    "remote_or_onsite": "Remote",
     "location": "Dhaka, Bangladesh",
     "job_type": "Full Time",
     "salary": "100k-150k",
@@ -58,7 +58,7 @@
   },
   {
     "id": 4,
-    "logo": "https://cdn.logojoy.com/wp-content/uploads/20230801145608/Current-Google-logo-2015-2023-600x203.png",
+    "logo": "https://cdn.vox-cdn.com/thumbor/2ECtQus43_-tjqtlxy0WE8peSEQ=/0x0:2012x1341/1400x1050/filters:focal(1006x670:1007x671)/cdn.vox-cdn.com/uploads/chorus_asset/file/15483559/google2.0.0.1441125613.jpg",
     "job_title": "Software Engineer",
     "company_name": "Google LLC",
     "remote_or_onsite": "Onsite",

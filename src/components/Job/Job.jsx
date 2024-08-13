@@ -1,8 +1,10 @@
 import "./Job.css";
 import { SlLocationPin } from "react-icons/sl";
 import { HiOutlineCurrencyDollar } from "react-icons/hi2";
+import { Link } from "react-router-dom";
 const Job = ({ job }) => {
   const {
+    id,
     logo,
     job_title,
     company_name,
@@ -38,7 +40,10 @@ const Job = ({ job }) => {
           </h2>
         </div>
         <div className="card-actions">
-          <button className="btn btn-primary">View Details</button>
+          {/* <button className="btn btn-primary">View Details</button> */}
+          <Link to={`/job/${id}`}>
+            <button className="btn btn-primary">View Details</button>
+          </Link>
         </div>
       </div>
     </div>

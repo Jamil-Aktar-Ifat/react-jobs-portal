@@ -1,5 +1,6 @@
 import "./Job.css";
-
+import { SlLocationPin } from "react-icons/sl";
+import { HiOutlineCurrencyDollar } from "react-icons/hi2";
 const Job = ({ job }) => {
   const {
     logo,
@@ -25,6 +26,16 @@ const Job = ({ job }) => {
           <button className="px-5 py-2 font-extrabold border rounded border-[#7E90FE] mr-4 text-[#7E90FE]">
             {job_type}
           </button>
+        </div>
+        <div className="flex ">
+          <h2 className="flex items-center gap-1 mr-4">
+            <SlLocationPin></SlLocationPin>
+            {location}
+          </h2>
+          <h2 className="flex items-center gap-1">
+            <HiOutlineCurrencyDollar></HiOutlineCurrencyDollar>
+            {salary}
+          </h2>
         </div>
         <div className="card-actions">
           <button className="btn btn-primary">View Details</button>
